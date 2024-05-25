@@ -1,0 +1,126 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio
+.vscode/
+.vscode/*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.cache
+*.sln.ide
+*.sln.ide*
+*.sln.eff
+
+# Rider
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$.directory
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Build results of an ATL project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+TestResults
+
+# MSTest
+*.trx
+*.TestResults
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*.ide~
+.vscode/
+.vscode/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+*.lnk
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac System files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# Visual Studio 2019
+.vscode/
+.vscode/*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NPM Packages
+node_modules/
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
